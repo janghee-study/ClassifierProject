@@ -61,5 +61,5 @@
 
 #### :heavy_check_mark: 시연영상
 ----------------------------------------------------------
-<img src="/images/시연영상.gif" width="90%">
+<img src="/images/시연영상.gif" width="110%">
 
