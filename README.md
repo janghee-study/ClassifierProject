@@ -1,8 +1,7 @@
 # Classifier
 ### 실시간 영상처리 기반 상품 분류 시스템 (Product classification system based on real-time image processing)
 
-<img src="/images/full.gif" width="90%">
-
+<img src="/images/full.gif" width="85%">
 공주대학교 상공회의소 연계작품 Classifier( 김장희 정재훈 김용주 김영무 박종하 )
 ### :large_orange_diamond: 작품선정 배경
 ----------------------------------------------------------
