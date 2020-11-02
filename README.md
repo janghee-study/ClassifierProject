@@ -2,12 +2,12 @@
 ### 실시간 영상처리 기반 상품 분류 시스템 (Product classification system based on real-time image processing)
 
 <img src="/images/full.gif" width="80%">
-공주대학교 상공회의소 연계작품 Classifier( 김장희 정재훈 김용주 김영무 박종하 )
+공주대학교 Classifier( 김장희 정재훈 김용주 김영무 박종하 )
 
 ### :large_orange_diamond: 작품선정 배경
 ----------------------------------------------------------
 
-:point_right: 코로나로 인해 과도한 업무량으로 인한 노동자들의 과로사 증가
+:point_right: 코로나로 인해 과도한 업무량으로 인한 택배노동자들의 과로사 증가
 
 ### :large_orange_diamond: 작품 목표
 ----------------------------------------------------------
