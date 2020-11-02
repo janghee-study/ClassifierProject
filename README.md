@@ -42,7 +42,7 @@
 
 <img src="/images/개발환경.PNG" width="60%">
 
-#### :heavy_check_mark: 역핢분담
+#### :heavy_check_mark: 수행일정
 
 <img src="/images/수행일정.PNG" width="60%">
 
